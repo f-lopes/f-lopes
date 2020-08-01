@@ -7,10 +7,10 @@
 - :briefcase: I’m currently working as a #TechLead / #DevOps
 
 * With these technologies:
-    - Java <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/>
+    - Java <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/>
     - Spring
     - DevOps - CI/CD
-        - Docker <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> / Traefik / Kubernetes
+        - Docker <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> / Traefik / Kubernetes
         - Ansible
         - Jenkins / GitLab CI / Travis CI
     - Tests
